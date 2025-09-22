@@ -1,2 +1,2 @@
-# homesteaderheadquarters.com
-site files for homesteaderheadquarters.com
+# clipblok.com
+site files for clipblok.com
